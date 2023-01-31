@@ -13,5 +13,5 @@ An example usage of our results can be seen in Lens Studio (Snapchat Lenses), wh
 ## System Architecture
 
 
-
+<img src="img/Picture2.jpg" alt="drawing" width="650"/>
 

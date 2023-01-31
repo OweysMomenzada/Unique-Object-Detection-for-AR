@@ -10,6 +10,11 @@ The model is then trained on the Detector model, which is then converted to an .
 
 An example usage of our results can be seen in Lens Studio (Snapchat Lenses), which can be seen on the section "Example usage".
 
+## Example usage for Lens Studio (Snapchat)
+
+<img src="img/ezgif-3-a16b4ffb10.gif" alt="drawing" width="650"/>
+
+
 ## System Architecture
 
 
